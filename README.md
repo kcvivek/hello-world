@@ -1,2 +1,3 @@
 # hello-world
-KC's first GitHub repo
+This is KC's first GitHub repository. 
+I'm experimenting with it now.
